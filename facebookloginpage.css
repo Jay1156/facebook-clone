@@ -1,0 +1,98 @@
+.facebooklogo 
+{
+    width: 200px;
+    margin-top: 100px ;
+    margin-left: 100px;
+    position: relative;
+}
+.comment
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    margin-left: 120px;
+  /*  position: absolute;*/
+    font-weight:lighter;
+    font-size:large;
+}
+
+.box{
+    background-color: white;
+    width: 300px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-bottom: 100px;
+    border-radius: 5px;
+    height: 125px;
+    margin-top: 7%;
+    margin-left: 7%;
+    box-shadow:0 0 10px rgba(0, 0, 0, 0.2);;
+}
+.randomy{
+    display: flex;
+}
+.end
+{
+    margin-left: 545px;
+    margin-top: 10px;
+
+}
+.email input
+{
+    margin-bottom: 10px;
+    width: 280px;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border:none;
+}
+
+.password input
+{
+    margin-bottom: 10px;
+    width: 280px;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border:none;
+}
+.login button{
+    margin-bottom: 10px;
+    width: 280px;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #0866ff;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+.forpass
+{
+    padding-left: 75px;
+    color: #0866ff;
+}
+.newacc button{
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 5px;
+    margin-top: 50px;
+    height: 35px;
+    width:230px;
+    margin-left: 30px;
+    background-color: #42B72A;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+body{
+    background-color: rgb(235, 235, 236);
+}
+a{
+    text-decoration: none;
+    color: #0866ff;
+}
+.end1
+{
+    font-size: small;
+    color: black;
+}
